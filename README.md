@@ -1,2 +1,9 @@
-# test-k2n-1760546695
-Site: Test K2n
+# Test K2n
+
+
+
+Built on: 2025-10-15 16:44:57
+
+Available languages:
+- en
+- langs
